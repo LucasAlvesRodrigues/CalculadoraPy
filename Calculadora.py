@@ -53,6 +53,7 @@ while True:
                 num = input('Digite um número: ')
                 print('O número {} em decimal é {}'.format(num, int(num, 16)))
                 break
+            
             else:
                 print('Opção inválida')
     break                   
