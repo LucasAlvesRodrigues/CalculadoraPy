@@ -1,6 +1,5 @@
 #LUCAS ALVES RODRIGUES - RGM: 29714893
-#Antonio Rafael Oliveira Lima - RGM:30167019
-#ERIK ANDREW ALMEIDA RODRIGUES - RGM: 30140986
+
 
 
 from math import *
