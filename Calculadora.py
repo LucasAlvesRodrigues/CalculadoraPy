@@ -1,7 +1,3 @@
-#LUCAS ALVES RODRIGUES - RGM: 29714893
-
-
-
 from math import *
 
 while True:
